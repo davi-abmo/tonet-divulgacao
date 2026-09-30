@@ -98,7 +98,7 @@ O projeto é desenvolvido por uma equipe de estudantes, com integrantes respons�
 * **Davi Abreu** — CEO e Back-End
 * **Ana Laura** — Design e Front-End
 * **João Emanuel** — Marketing e Mídia
-* **Francisco Maycon** — Suporte e Testes
+* **Francisco Maycon** — Suporte e QA
 * **Wellysson Leandro** — Marketing e Mídia
 
 ## 📈 Status do projeto
